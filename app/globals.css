@@ -1,0 +1,5 @@
+/* Remove any previous star-related CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
